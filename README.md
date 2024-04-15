@@ -1,2 +1,2 @@
 # QuickVPB
-Un gadget para marcar artículos para VPB en SnowballaspediA
+Un gadget para marcar artículos para Borrado Rapido en SnowballaspediA
